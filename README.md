@@ -2,7 +2,7 @@
 - 👀 I’m interested in ART & AI
 - 🌱 I’m currently learning Artificial Intelligence & Data Science
 - 💞️ I’m looking to collaborate with you!
-- 📫 How to reach me https://www.youtube.com/channel/UC3WlPzShazYqZeA65g-c1Kg
+- 
 - 
   
 <!---
